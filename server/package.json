@@ -22,6 +22,7 @@
     "express": "^4.18.1",
     "mongoose": "^6.4.3",
     "morgan": "^1.10.0",
+    "nasa-project": "file:..",
     "nodemon": "^2.0.18",
     "pm2": "^5.2.0"
   },
